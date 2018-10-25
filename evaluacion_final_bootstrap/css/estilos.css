@@ -1,0 +1,30 @@
+header {
+  background: black;
+  padding: 10px;
+}
+.musica-body {
+  background: white;
+  margin: 10px;
+}
+
+.logo-img {
+  width: 150px;
+  text-align: left;
+}
+.redes-sociales {
+  margin-top: 50px;
+  text-align: right;
+}
+
+.navbar {background: #B6BBB6;
+        text-align: justify;}
+ a {color: white;}
+
+.container-fluid {background: #E7F5E5;}
+
+.img-disco {
+  height: 150px;
+  margin: 5px;
+}
+.busqueda{margin-top: 10px;}
+.list-group {margin-top: 20px;}

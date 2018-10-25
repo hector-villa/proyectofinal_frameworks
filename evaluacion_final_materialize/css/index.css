@@ -1,0 +1,32 @@
+body {  background: url(../img/fondo.jpg);
+         }
+.barra-superior{
+  min-height: 6rem;
+}
+
+.brand-logo{
+
+  margin-top: 0.5rem;
+  margin-left: 5rem;
+  float: left;
+}
+#cuerpo {margin-top: 20px;}
+img {margin-top: 10px;}
+
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 30rem;
+}
+p{color: white}
+img {text-shadow: 2px 2px red;}
+
+#comentarioslogo{font-size: 50px;}
+
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+  #fotocentral{height: 300px;}
+}
